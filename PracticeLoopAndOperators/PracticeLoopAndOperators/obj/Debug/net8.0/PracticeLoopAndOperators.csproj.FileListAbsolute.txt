@@ -1,0 +1,14 @@
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\bin\Debug\net8.0\PracticeLoopAndOperators.exe
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\bin\Debug\net8.0\PracticeLoopAndOperators.deps.json
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\bin\Debug\net8.0\PracticeLoopAndOperators.runtimeconfig.json
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\bin\Debug\net8.0\PracticeLoopAndOperators.dll
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\bin\Debug\net8.0\PracticeLoopAndOperators.pdb
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.AssemblyInfoInputs.cache
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.AssemblyInfo.cs
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.dll
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\refint\PracticeLoopAndOperators.dll
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.pdb
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\PracticeLoopAndOperators.genruntimeconfig.cache
+C:\Users\Danna\source\repos\PracticeLoopAndOperators\PracticeLoopAndOperators\obj\Debug\net8.0\ref\PracticeLoopAndOperators.dll
